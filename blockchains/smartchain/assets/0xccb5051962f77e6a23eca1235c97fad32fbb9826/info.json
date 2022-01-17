@@ -1,0 +1,10 @@
+ "name": "ETH Fan Token",
+    "website": "https://ethfan.club/",
+    "description": "We are a Token for all those who love Ethereum technology and cryptocurrency ether. This project has been launched on BEP20 so that investors who are afraid of investing in new projects on ERC20 due to high gas fees and relatively high investment, they can also invest small amounts in ETH Fan Token and enjoy the world of rewards and benefits in Crypto Ecosystem.",
+    "explorer": "https://bscscan.com/token/0xccb5051962f77e6a23eca1235c97fad32fbb9826",
+    "type": "BEP20",
+    "symbol": "EFT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCcB5051962F77e6a23ecA1235c97FaD32fbB9826"
+}
